@@ -2,10 +2,6 @@
 
 Welcome to my portfolio website! This site showcases who I am, my skills, projects, and how to get in touch with me. Built with HTML, CSS, and JavaScript, it's fully responsive and interactive.
 
-## 🔗 Live Demo
-
-You can check out the live version here: [Narendar's Portfolio](#) <!-- Replace # with your deployed link if available -->
-
 ---
 
 ## 📁 Features
